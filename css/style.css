@@ -1,0 +1,69 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    color: darkgrey;
+    
+}
+
+/* side nav bar */
+.nav {
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+/* about me image styling */
+.me img{
+    border-radius: 50%;
+    width: 90%;
+    height: 200px;
+   
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.li {
+    color: darkgrey;
+}
+
+/* a links */
+a:hover{
+    color: crimson;   
+}
+
+/* class images styling */
+img {
+   
+    height: 350px;
+    width: 500px;
+    padding: 5px;
+    margin-right: 50px;
+    
+}
+
+.main_container {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+   
+}
+
+.container_2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+
+
